@@ -41,6 +41,7 @@
   "map": [
     "config:rw",
     "share:rw",
+    "backup:rw",
     "ssl"
   ],
   "options": {
